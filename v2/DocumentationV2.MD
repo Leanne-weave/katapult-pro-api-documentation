@@ -4,7 +4,7 @@
 The Katapult Pro API key is available for users to generate locally. To generate your own user authenticated API Key, you must have permissions setup to do so by your company Admin. Your company Admin should be able to go to the /Admin page available to them in Katapult Pro and choose to grant you access. Once they have done so, the user should navigate to their /Home directory in Katapult Pro by either entering the url https://katapultpro.com/home or selecting the App Tray menu and selecting Home. If you are arriving at the home screen for the first time, it is unlikely you have anything showing on the page or perhaps there’s a message that states "It's feeling lonely.” If this is the case, go to the configuration menu and select the widget from the tray.
  
 
-![API Widget](https://github.com/KatapultDevelopment/katapult-pro-api-documentation/blob/main/v2/img/Widget.png)
+![API Widget](https://github.com/KatapultDevelopment/katapult-pro-api-documentation/blob/main/v2/img/Widget.png){ style="display: block; margin: 0 auto" }
 
 If the API Key area appears blank, then it is the first time that a key is to be generated. If the Generate Key button is pushed, a key will be generated for you. After generating your key, you can either select “Copy Key” or highlight the key data and the paste into your application. For security reasons, there is a 10 second timeout on viewing your key. Once it expires, you will see a button called “View API Key.” Clicking this button will allow you to view your key again for another 10 second timeout. If your key has been compromised, you can regenerate a new one at any time.
 
