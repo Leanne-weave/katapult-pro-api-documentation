@@ -417,6 +417,7 @@ The value for  _api_proposed_height_  is the calculated proposed height for the 
 | Parameter | Description |
 | --------- | ----------- |
 | api_key   | {{api-key}} Your API key with the braces removed |
+| include_company_picklist | value should be set to `true` | Include this to retrieve all companies available in the Company picklist for this job. |
 | include_proposed_midspan_heights | true Include this if proposed midspan heights are required. |
 | include_proposed_existing_and_markers | true Include this if proposed and existing heights are needed for all markers. |
 | height_marker_type | node/midspan/both Optional addition for include_proposed_existing_and_markers. Set which height photos should include the height data. |
